@@ -38,7 +38,7 @@ joblib>=1.3.0
 scikit-learn>=1.3.0
 ```
 
-You can also create a `requirements.txt` file with the content above and run:
+You can also run:
 ```bash
 pip install -r requirements.txt
 ```
@@ -48,9 +48,6 @@ pip install -r requirements.txt
 The Streamlit app allows you to get predictions from the trained model through a simple web interface.
 
 1.  **Navigate to the project directory** in your terminal:
-    ```bash
-    cd "c:\Users\prisc\Desktop\AIML engineering\week 11"
-    ```
 
 2.  **Run the Streamlit app**:
     ```bash
